@@ -1,0 +1,15 @@
+current directory: /Users/yukinobutamura/json_api/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/yukinobutamura/.rbenv/versions/2.6.6/bin/ruby -I /Users/yukinobutamura/.rbenv/versions/2.6.6/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210705-46486-12z6e3r.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yukinobutamura/json_api/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/yukinobutamura/json_api/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yukinobutamura/json_api/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210705-46486-1dyk6ps/bootsnap
